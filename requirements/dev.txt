@@ -1,3 +1,4 @@
-pyinstaller==3.1.1
+pyinstaller==3.6
 mock==2.0.0
 coverage==4.0.3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
